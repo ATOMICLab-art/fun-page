@@ -1,4 +1,5 @@
-# ![Логотип Fly](about/logo.png) Logistic FLY
+# ![Логотип Fly](about/logo.png) 
+# Logistic FLY
 
 ### **Наши преимущества**:
 1. Скорость доставки.
