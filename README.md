@@ -1,4 +1,4 @@
-# ![Логотип Fly](about/logo.png) Logistic FLY
+theme: jekyll-theme-minimal# ![Логотип Fly](about/logo.png) Logistic FLY
 
 ### **Наши преимущества**:
 1. Скорость доставки.
@@ -20,5 +20,3 @@
 [Logistic.FLY@aymail.ry](https://pikuco.ru/upload/test_stable/bb6/bb69551557a96db92fd1c501049c0f1f.webp)
 
 [Lolgistic.LOL@lolmail.lol](https://i.ytimg.com/vi/VrObT6rP1ow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5vxEEcrKThJT83FxRvzabUYeesw)
-
-theme: jekyll-theme-minimal
