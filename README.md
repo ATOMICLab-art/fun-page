@@ -21,4 +21,4 @@
 
 [Logistic.FLY@aymail.ry](https://pikuco.ru/upload/test_stable/bb6/bb69551557a96db92fd1c501049c0f1f.webp)
 
-[Lolgistic.LOL@lolmail.lol](https://i.ytimg.com/vi/VrObT6rP1ow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5vxEEcrKThJT83FxRvzabUYeesw)
+[Lolgistic.LOL@lolmail.lol](https://zvetnoe.ru/upload/resize_cache/catalog/w750h1000/e60/e60293efa4ca9af64c7c738a3a8ce2a3.jpg)
